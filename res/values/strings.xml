@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application1128</string>
+
+    <string name="quantity">数量：</string>
+    <string name="textview">sum</string>
+    <string name="button">+1</string>
+    <string name="button2">-1</string>
+    <string name="sum">TextView</string>
+
+</resources>
